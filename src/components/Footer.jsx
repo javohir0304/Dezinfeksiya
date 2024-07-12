@@ -24,8 +24,7 @@ function FoterPage() {
                                 <span style={{fontSize: '20px'}}><FontAwesomeIcon icon={faLocation}/></span>
                             </div>
                             <span className="foter-text">{t('manzil')}</span>
-                            <a
-                                href="https://www.google.com/maps/place/IT+Time+Academy/@41.3383854,69.2857248,15z/data=!4m14!1m7!3m6!1s0x38ae8b4e3088e9bf:0xdd9a89a16d423604!2sIT+Time+Academy!8m2!3d41.3383854!4d69.2857248!16s%2Fg%2F11y1mn0hrz!3m5!1s0x38ae8b4e3088e9bf:0xdd9a89a16d423604!8m2!3d41.3383854!4d69.2857248!16s%2Fg%2F11y1mn0hrz?entry=ttu" target="_blank"
+                            <a href="https://www.google.com/maps/place/IT+Time+Academy/@41.3383854,69.2857248,15z/data=!4m14!1m7!3m6!1s0x38ae8b4e3088e9bf:0xdd9a89a16d423604!2sIT+Time+Academy!8m2!3d41.3383854!4d69.2857248!16s%2Fg%2F11y1mn0hrz!3m5!1s0x38ae8b4e3088e9bf:0xdd9a89a16d423604!8m2!3d41.3383854!4d69.2857248!16s%2Fg%2F11y1mn0hrz?entry=ttu" target="_blank" rel="noopener noreferrer"
                                 style={{fontSize: '20px', marginTop: "25px",color:'black'}}>   <ArrowRightOutlined/></a>
                         </div>
 
